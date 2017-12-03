@@ -5,4 +5,5 @@
     <string name="description">This is a message description</string>
     <string name="new_label">Otra cadenda nueva</string>
     <string name="otro_label">new version</string>
+    <string name="nuevo">nuevo</string>
 </resources>
